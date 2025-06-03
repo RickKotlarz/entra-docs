@@ -31,6 +31,10 @@ The agent runs every 24 hours but can also run manually.
 
 The agent reviews your policy configuration but acts only with your approval of the suggestions.
 
+#### Prerequisites, licensing​, and limitations
+
+[Microsoft Entra Conditional Access optimization agent](/entra/identity/conditional-access/agent-optimization.md#prerequisites)  
+
 #### Identity​
 
 It runs in the context of the administrator who configured the agent.
